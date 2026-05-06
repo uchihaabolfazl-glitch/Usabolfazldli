@@ -49,7 +49,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://example.com/file.zip
+download: https://mp4-cdn77.xvideos-cdn.com/105f7eb1-09c4-481a-8532-0ed657a043fe/0/video_360p.mp4?secure=M3iQrO6nrbyr8G-gDZ9Ajw==,1778112781&download=Xvideos_you_shouldn_t_have_come_SD.mp4
 ```
 
 ```
