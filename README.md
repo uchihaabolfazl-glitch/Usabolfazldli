@@ -69,7 +69,7 @@ download-zip: URL1 URL2 URL3
 **Examples:**
 
 ```
-download-zip: https://example.com/file.zip
+download-zip: https://www.tgxdl3.workers.dev/v3/0:/dl/917077?hash=AgADOi
 ```
 
 ```
