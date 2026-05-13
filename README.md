@@ -49,7 +49,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://mp4-cdn77.xvideos-cdn.com/105f7eb1-09c4-481a-8532-0ed657a043fe/0/video_360p.mp4?secure=M3iQrO6nrbyr8G-gDZ9Ajw==,1778112781&download=Xvideos_you_shouldn_t_have_come_SD.mp4
+download: https://cdn77-pr.pvvstream.pro/videos/480/-106406975_456239278.mp4?url=dmt2ZDUzMi5va2Nkbi5ydS8_c3JjSXA9NDUuODQuMjguMTQ1JnByPTQwJmV4cGlyZXM9MTc3OTE0MTM3Nzc4OSZzcmNBZz1VTktOT1dOJmZyb21DYWNoZT0xJm1zPTE4NS4yMjYuNTUuMTcwJnR5cGU9MiZzaWc9ZDhIQmFtVXd4b1kmY3Q9MCZ1cmxzPTE4NS4yMjYuNTIuMjI5JmNsaWVudFR5cGU9MTQmYXBwSWQ9NTEyMDAwMzg0Mzk3JmlkPTY1NzYyMDg2MzQ5Mw&secure=96xUOs0zmFekt7v7dpRBcA%3D%3D%2C1778772747&dl=1
 ```
 
 ```
